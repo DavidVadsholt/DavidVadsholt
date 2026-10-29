@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm David
+
+I'm a medical doctor and PhD student at Aalborg University and Steno Diabetes Center North Denmark.
+
+As part of the DP-Next research group, I study heterogeneity among people with prediabetes to better understand who is at greatest risk of developing type 2 diabetes and related complications.
+
+My research draws on my clinical background, with the aim of improving early risk identification and supporting more targeted prevention of type 2 diabetes.
 
 <!--
 **DavidVadsholt/DavidVadsholt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
